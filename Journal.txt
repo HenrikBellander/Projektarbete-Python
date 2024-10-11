@@ -1,0 +1,48 @@
+Fakedatum
+Rubrik
+Testinl�gg woo!
+
+Fakedatum
+Rubrik
+Mer test woo!
+
+Fakedatum
+Rubrik
+Tredje test!
+
+Fakedatum
+Rubrik
+Fj�rde test!
+
+2024-10-09 17:17:06.572171
+Rubrik
+Skriver till fil med datetime och ms?
+
+2024-10-09 17:18:21
+Rubrik
+Skriver med datetime utan ms
+
+2024-10-09 17:27:44
+Testrubrik
+Testar att skriva inl�gg med egen rubrik.
+
+2024-10-09 17:28:19
+Olika font i rubrik och text
+Radbrytning ser f�r j�vlig ut.
+
+2024-10-10 10:19:33
+Nytt inl�gg
+Med tid!
+
+2024-10-11 13:20:09
+ÅÄÖ
+<bound method Inlägg.get_text of <Inlägg.Journal object at 0x00000235B6FDF2C0>>
+
+2024-10-11 13:20:36
+ÅÄÖ
+<bound method Inlägg.get_text of <Inlägg.Journal object at 0x00000235B6FDF2C0>>
+
+2024-10-11 13:21:12
+gcnbvdsfafbvåäö
+bvnfdsafsnhgmvcxzcvmnvfxdsåäö
+
