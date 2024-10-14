@@ -46,3 +46,11 @@ Med tid!
 gcnbvdsfafbvåäö
 bvnfdsafsnhgmvcxzcvmnvfxdsåäö
 
+2024-10-14 10:01:40
+Dagens plan
+Fixa UI så det ser snyggare ut.
+
+2024-10-14 13:56:05
+Knappar fixade
+Hej dagboken! Idag har jag fixat knapparna på vänstra sidan. Nu ska jag fixa knapparna på högra sidan. Puss!
+
